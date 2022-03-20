@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hazelwize
-- 👀 I’m interested in learning Fullstack JavaScript.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 👀 I like to build full stack web applications.
+- 🌱 I speak HTML, CSS, and JavaScript. 
 
 
 <!---
