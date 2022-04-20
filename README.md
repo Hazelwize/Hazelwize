@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hazelwize
-- 👀 I like to build full stack web applications.
-- 🌱 I speak HTML, CSS, and JavaScript. 
+- 👀 I like to build full stack web applications with a focus on accessibility and OOP.
+- 🌱 I speak HTML, CSS, JavaScript, Node, MangoDB, React, React Native, PostgreSQL
+- 
 
 
 <!---
