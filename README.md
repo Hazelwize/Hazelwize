@@ -46,7 +46,7 @@ See [my website](https://www.fullstackjackson.com) for more information!
       <h3 align="center">E-Sports Team: Murder Ink</h3>
         <br />
       <a target="_blank" href="https://hazelwize.github.io/murderInk/">
-            <img src="https://media.giphy.com/media/CYkIx7NgiKUg9gtaFy/giphy.gif" width="100%"  alt="Murder Ink"/>
+            <img src="https://media.giphy.com/media/CYkIx7NgiKUg9gtaFy/giphy-downsized.gif" width="100%"  alt="Murder Ink"/>
         </a>
         <br />
         <p align="center">
