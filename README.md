@@ -104,7 +104,7 @@ See [my website](https://www.fullstackjackson.com) for more information!
       <h3 align="center">Proof's Bakery</h3>
       <br />
         <a target="_blank" href="https://hazelwize.github.io/Cuisine/">
-          <img src="https://media.giphy.com/media/FzCbCbtKkZSTExx4nr/giphy.gif" width="100%" alt="Portfolio"/>
+          <img src="https://media.giphy.com/media/FzCbCbtKkZSTExx4nr/giphy-downsized.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
