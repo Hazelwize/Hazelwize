@@ -28,7 +28,7 @@ See [my website](https://www.fullstackjackson.com) for more information!
       <h3 align="center">Portfolio Site</h3>
         <br />
         <a target="_blank" href="http://www.fullstackjackson.com">
-            <img src="https://media.giphy.com/media/10G8RxtLQsrI79O806/giphy-downsized-large.gif" width="100%" alt="Portfolio Site"/>
+            <img src="https://media.giphy.com/media/10G8RxtLQsrI79O806/giphy-downsized.gif" width="100%" alt="Portfolio Site"/>
         </a>
         <br />
         <p align="center">
