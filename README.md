@@ -69,26 +69,7 @@ See [my website](https://www.fullstackjackson.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/Hazelwize/murderInk" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://hazelwize.github.io/murderInk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, CSS, HTML5</strong> - I pushed my CSS creativity with this project. The folder, phone, and background are all CSS.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Deck and Post</h3>
-      <br />
-        <a target="_blank" href="https://www.deckandpost.com">
-          <img src="https://media.giphy.com/media/Qy1DATrMseTYrBueBA/giphy.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
+ 
   <a href="https://github.com/Hazelwize/DeckAndPostWebsite" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -142,6 +123,26 @@ See [my website](https://www.fullstackjackson.com) for more information!
           <img src="https://imgur.com/WJTgFl2.jpg" width="100%" alt="Matching Cards"/>
         </a>
         <br />
+        <p align="center">
+           <a href="https://github.com/Hazelwize/murderInk" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hazelwize.github.io/murderInk/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, CSS, HTML5</strong> - I pushed my CSS creativity with this project. The folder, phone, and background are all CSS.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Deck and Post</h3>
+      <br />
+        <a target="_blank" href="https://www.deckandpost.com">
+          <img src="https://media.giphy.com/media/Qy1DATrMseTYrBueBA/giphy.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
         <p align="center">
     </td>
   </tr>
