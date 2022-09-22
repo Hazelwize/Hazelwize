@@ -43,22 +43,22 @@ See [my website](https://www.fullstackjackson.com) for more information!
         <p><strong>Javascript, CSS, HTML5</strong> - Collection of some of my favorite projects so far!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">E-Sports Team: Murder Ink</h3>
+      <h3 align="center">PlayerToo: Gaming Social App</h3>
         <br />
-      <a target="_blank" href="https://hazelwize.github.io/murderInk/">
-            <img src="https://media.giphy.com/media/CYkIx7NgiKUg9gtaFy/giphy-downsized.gif" width="100%"  alt="Murder Ink"/>
+      <a target="_blank" href="https://www.playertoo.gg">
+            <img src="https://media.giphy.com/media/uSqDqbTq9rHnpvJPU0/giphy.gif" width="100%"  alt="Murder Ink"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Hazelwize/murderInk" target="_blank">
+  <a href="https://github.com/Hazelwize/player-two" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://hazelwize.github.io/murderInk/" target="_blank">
+  <a href="https://www.playertoo.gg" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, HTML5</strong> - I pushed my CSS creativity with this project. The folder, phone, and background are all CSS.</p>
+        <p><strong>Node.js, Express, MongoDB, Mongoose, EJS, REST, Javascript, CSS, HTML5</strong> - This is a full stack CRUD app with authentication. It matches players with similar experience in game.</p>
     </td>
   </tr>
   
@@ -118,22 +118,22 @@ See [my website](https://www.fullstackjackson.com) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Built while studying older formats of CSS. This site is made with 100% floats.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Ape Historian</h3>
+      <h3 align="center">E-Sports Team: Murder Ink</h3>
         <br />
-        <a target="_blank" href="https://hazelwize.github.io/ape-historian/">
-          <img src="https://imgur.com/WJTgFl2.jpg" width="100%" alt="Matching Cards"/>
+      <a target="_blank" href="https://hazelwize.github.io/murderInk/">
+            <img src="https://media.giphy.com/media/CYkIx7NgiKUg9gtaFy/giphy-downsized.gif" width="100%"  alt="Murder Ink"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Hazelwize/ape-historian" target="_blank">
+  <a href="https://github.com/Hazelwize/murderInk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://hazelwize.github.io/ape-historian/" target="_blank">
+  <a href="https://hazelwize.github.io/murderInk/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js, MongoDB</strong> - With over 70 Tb of historical data, Ape Historian is a cause that I volunteer for. It is an on-going project. </p>
+        <p><strong>Javascript, CSS, HTML5</strong> - I pushed my CSS creativity with this project. The folder, phone, and background are all CSS.</p>
     </td>
   </tr>
 </table>
