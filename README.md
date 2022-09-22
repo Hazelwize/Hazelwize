@@ -50,6 +50,24 @@ See [my website](https://www.fullstackjackson.com) for more information!
         </a>
         <br />
         <p align="center">
+        
+  <a href="https://github.com/Hazelwize/player-two" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.playertoo.gg" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node.js, Express, EJS, MongoDB, Mongoose, Javascript, CSS, HTML5</strong> - Collection of some of my favorite projects so far!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PlayerToo: Gaming Social App</h3>
+        <br />
+      <a target="_blank" href="https://www.playertoo.gg">
+            <img src="https://media.giphy.com/media/uSqDqbTq9rHnpvJPU0/giphy.gif" width="100%"  alt="PlayerToo"/>
+        </a>
+        <br />
+        <p align="center">
           
   <a href="https://github.com/Hazelwize/murderInk" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -125,15 +143,6 @@ See [my website](https://www.fullstackjackson.com) for more information!
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/Hazelwize/ape-historian" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://hazelwize.github.io/ape-historian/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js, MongoDB</strong> - With over 70 Tb of historical data, Ape Historian is a cause that I volunteer for. It is an on-going project. </p>
     </td>
   </tr>
 </table>
