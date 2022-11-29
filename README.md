@@ -147,8 +147,6 @@ See [my website](https://www.fullstackjackson.com) for more information!
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hazelwize)](https://git.io/streak-stats)
-[![Hazelwize's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazelwize)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Connect</h1>
 
